@@ -23,24 +23,24 @@ Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs
 
 ## Ebooks
 
-* [http://pragprog.com/book/rails4/agile-web-development-with-rails](Agile Web Development with Rails (4th edition) by Sam Ruby )
+* [Agile Web Development with Rails (4th edition) by Sam Ruby](http://pragprog.com/book/rails4/agile-web-development-with-rails)
 * [http://manning.com/katz/](Rails 3 in Actionby Ryan Biggs)
-* [http://pragprog.com/book/rr2/rails-recipes](Rails Recipes: Rails 3 Editionby Chad Fowler)
-* [http://ruby.railstutorial.org/](Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) by Michael Hartl)
+* [Rails Recipes: Rails 3 Editionby Chad Fowler](http://pragprog.com/book/rr2/rails-recipes)
+* [Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) by Michael Hartl](http://ruby.railstutorial.org/)
 
 ## Tutorials
 
-* [http://www.codeschool.com/courses/rails-for-zombies](Rails for Zombieby Gregg Pollack)
-* [https://peepcode.com/products/meet-rails-3-i](Meet Rails 3by Peepcode)
+* [Rails for Zombieby Gregg Pollack](http://www.codeschool.com/courses/rails-for-zombies)
+* [Meet Rails 3by Peepcode](https://peepcode.com/products/meet-rails-3-i)
 
 ## Screencasts
 
-* [http://railscasts.com/](Railscastby Ryan Bates)
+* [Railscastby Ryan Bates](http://railscasts.com/)
 
 ## Magazines
 
-* [http://magazine.rubyist.net/](Rubyist Magazine (Japanese))
+* [Rubyist Magazine (Japanese)](http://magazine.rubyist.net/)
 
 ## News
 
-* [http://www.rubyinside.com/](Ruby Inside by Peter Cooper)
+* [Ruby Inside by Peter Cooper](http://www.rubyinside.com/)
