@@ -25,17 +25,17 @@ Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs
 
 * [Agile Web Development with Rails (4th edition) by Sam Ruby](http://pragprog.com/book/rails4/agile-web-development-with-rails)
 * [Rails 4 in Action by Ryan Biggs](http://www.manning.com/bigg2/)
-* [Rails Recipes: Rails 3 Editionby Chad Fowler](http://pragprog.com/book/rr2/rails-recipes)
+* [Rails Recipes: Rails 3 Edition by Chad Fowler](http://pragprog.com/book/rr2/rails-recipes)
 * [Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) by Michael Hartl](http://ruby.railstutorial.org/)
 
 ## Tutorials
 
-* [Rails for Zombieby Gregg Pollack](http://www.codeschool.com/courses/rails-for-zombies)
-* [Meet Rails 3by Peepcode](https://peepcode.com/products/meet-rails-3-i)
+* [Rails for Zombie by Gregg Pollack](http://www.codeschool.com/courses/rails-for-zombies)
+* [Meet Rails 3 by Peepcode](https://peepcode.com/products/meet-rails-3-i)
 
 ## Screencasts
 
-* [Railscastby Ryan Bates](http://railscasts.com/)
+* [Railscasts by Ryan Bates](http://railscasts.com/)
 
 ## Magazines
 
