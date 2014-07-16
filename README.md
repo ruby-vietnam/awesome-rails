@@ -21,10 +21,10 @@ Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4
 * [RSpec style guide](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }
 
-## Ebooks
+## eBooks
 
 * [Agile Web Development with Rails (4th edition) by Sam Ruby](http://pragprog.com/book/rails4/agile-web-development-with-rails)
-* [http://manning.com/katz/](Rails 3 in Actionby Ryan Biggs)
+* [Rails 4 in Action by Ryan Biggs](http://www.manning.com/bigg2/)
 * [Rails Recipes: Rails 3 Editionby Chad Fowler](http://pragprog.com/book/rr2/rails-recipes)
 * [Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) by Michael Hartl](http://ruby.railstutorial.org/)
 
