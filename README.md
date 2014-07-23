@@ -36,6 +36,7 @@ Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs
 ## Screencasts
 
 * [Railscasts by Ryan Bates](http://railscasts.com/)
+* [GoRails Screencasts for Ruby on Rails Developers](https://gorails.com/)
 
 ## Magazines
 
