@@ -3,9 +3,9 @@
 A collection of awesome Rails libraries/app examples/ebooks/tutorials/screencasts/magazines/news:
 
 
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/checkraiser/awesome-rails/blob/master/CONTRIBUTING.md) first.
+Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ruby-vietnam/awesome-rails/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Awesome Rails](#awesome-rails)
   * [Style Guide](#style-guide)
