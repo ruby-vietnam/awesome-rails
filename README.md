@@ -14,6 +14,7 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
   * [Screencasts](#screencasts)
   * [Magazines](#magazines)
   * [News](#news)
+  * [Blogs](#blogs)
 
 ## Style Guide
 
@@ -50,3 +51,6 @@ object-oriented thought to Ruby on Rails applications
 ## News
 
 * [Ruby Inside by Peter Cooper](http://www.rubyinside.com/)
+
+## Blogs
+* [A fresh cup by Mike Gunderloy](http://afreshcup.com/): Semi-daily reading suggestions
