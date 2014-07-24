@@ -27,6 +27,9 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
 * [Rails 4 in Action by Ryan Biggs](http://www.manning.com/bigg2/)
 * [Rails Recipes: Rails 3 Edition by Chad Fowler](http://pragprog.com/book/rr2/rails-recipes)
 * [Ruby on Rails Tutorial: Learn Web Development with Rails (2nd Edition) by Michael Hartl](http://ruby.railstutorial.org/)
+* [Object on Rails](http://objectsonrails.com) - a "developer's notebook"
+documenting some guidelines, techniques, and ideas for applying classic
+object-oriented thought to Ruby on Rails applications
 
 ## Tutorials
 
