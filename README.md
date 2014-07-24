@@ -53,4 +53,6 @@ object-oriented thought to Ruby on Rails applications
 * [Ruby Inside by Peter Cooper](http://www.rubyinside.com/)
 
 ## Blogs
+
 * [A fresh cup by Mike Gunderloy](http://afreshcup.com/): Semi-daily reading suggestions
+* [RubyCorner List of Blogs](http://rubycorner.com/blogs/registered): 700+ blogs about Rails and Ruby
