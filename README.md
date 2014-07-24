@@ -20,6 +20,8 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4
 * [RSpec style guide](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }
+* [Dash docs](http://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager. Available for MacOS
+* [Zeal docs](http://zealdocs.org/) - A simple offline API documentation browser inspired by Dash (OS X app), available for Linux and Windows.
 
 ## eBooks
 
