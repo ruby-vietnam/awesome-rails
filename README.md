@@ -57,3 +57,4 @@ object-oriented thought to Ruby on Rails applications
 * [A fresh cup by Mike Gunderloy](http://afreshcup.com/): Semi-daily reading suggestions
 * [RubyCorner List of Blogs](http://rubycorner.com/blogs/registered): 700+ blogs about Rails and Ruby
 * [Ruby Best Practices](http://blog.rubybestpractices.com): Contains many advanced posts on techniques using in Ruby
+* [Practicing Ruby](https://practicingruby.com): One of the best pubic archives on advanced Ruby
