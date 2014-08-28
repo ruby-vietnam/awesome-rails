@@ -15,7 +15,7 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
   * [Magazines](#magazines)
   * [News](#news)
   * [Blogs](#blogs)
-  * [Doc](#doc)
+  * [Podcast](#podcasts)
 
 ## Style Guide
 
@@ -46,6 +46,10 @@ object-oriented thought to Ruby on Rails applications
 
 * [Railscasts by Ryan Bates](http://railscasts.com/)
 * [GoRails Screencasts for Ruby on Rails Developers](https://gorails.com/)
+
+## Podcasts
+
+* [Ruby5](http://ruby5.envylabs.com)
 
 ## Magazines
 
