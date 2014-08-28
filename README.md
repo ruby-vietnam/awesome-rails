@@ -51,6 +51,7 @@ object-oriented thought to Ruby on Rails applications
 ## Podcasts
 
 * [Ruby5](http://ruby5.envylabs.com)
+* [Ruby Rogues](http://rubyrogues.com)
 
 ## Magazines
 
