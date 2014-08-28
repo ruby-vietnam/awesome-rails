@@ -15,6 +15,7 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
   * [Magazines](#magazines)
   * [News](#news)
   * [Blogs](#blogs)
+  * [Doc](#doc)
 
 ## Style Guide
 
@@ -58,3 +59,7 @@ object-oriented thought to Ruby on Rails applications
 * [RubyCorner List of Blogs](http://rubycorner.com/blogs/registered): 700+ blogs about Rails and Ruby
 * [Ruby Best Practices](http://blog.rubybestpractices.com): Contains many advanced posts on techniques using in Ruby
 * [Practicing Ruby](https://practicingruby.com): One of the best pubic archives on advanced Ruby
+
+## Doc
+
+* [RDoc](www.ruby-doc.org): A Ruby API reference doc
