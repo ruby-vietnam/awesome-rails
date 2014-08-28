@@ -54,6 +54,7 @@ object-oriented thought to Ruby on Rails applications
 ## News
 
 * [Ruby Inside by Peter Cooper](http://www.rubyinside.com/)
+* [Ruby Weekly](http://rubyweekly.com)
 
 ## Blogs
 
