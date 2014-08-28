@@ -41,6 +41,7 @@ object-oriented thought to Ruby on Rails applications
 
 * [Rails for Zombie by Gregg Pollack](http://www.codeschool.com/courses/rails-for-zombies)
 * [Meet Rails 3 by Peepcode](https://peepcode.com/products/meet-rails-3-i)
+* [RubyStep](http://patmaddox.com/rubysteps/)
 
 ## Screencasts
 
