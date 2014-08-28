@@ -46,6 +46,7 @@ object-oriented thought to Ruby on Rails applications
 
 * [Railscasts by Ryan Bates](http://railscasts.com/)
 * [GoRails Screencasts for Ruby on Rails Developers](https://gorails.com/)
+* [RubyTapas by Avdi Grimm](http://www.rubytapas.com)
 
 ## Podcasts
 
