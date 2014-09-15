@@ -15,4 +15,4 @@ To stay on the list, projects should follow these quality standards:
 * Documented
 * Tests
 
-Thanks to all [contributors](https://github.com/checkraiser/awesome-rails/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graphs/contributors), you're awesome and wouldn't be possible without you!
