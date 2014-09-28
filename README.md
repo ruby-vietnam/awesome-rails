@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
   * [News](#news)
   * [Blogs](#blogs)
   * [Podcast](#podcasts)
+  * [Shells](https://github.com/alebcay/awesome-shell)
 
 ## Style Guide
 
