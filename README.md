@@ -37,6 +37,8 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-rails/graph
 * [Object on Rails](http://objectsonrails.com) - a "developer's notebook"
 documenting some guidelines, techniques, and ideas for applying classic
 object-oriented thought to Ruby on Rails applications
+* [Definitive Guide to Ruby C API](http://silverhammermba.github.io/emberb/c/) - a thorough guide
+to the world of Ruby API in C
 
 ## Tutorials
 
