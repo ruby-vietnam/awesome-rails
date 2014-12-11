@@ -39,6 +39,7 @@ documenting some guidelines, techniques, and ideas for applying classic
 object-oriented thought to Ruby on Rails applications
 * [Definitive Guide to Ruby C API](http://silverhammermba.github.io/emberb/c/) - a thorough guide
 to the world of Ruby API in C
+* [Everyday Rails RSpec Recipes](https://leanpub.com/everydayrailsrspec) - a guide through many good practices in Testing Rails app with RSpec
 
 ## Tutorials
 
