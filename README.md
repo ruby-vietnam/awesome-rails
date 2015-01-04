@@ -68,6 +68,7 @@ to the world of Ruby API in C
 
 * [Ruby Inside by Peter Cooper](http://www.rubyinside.com/)
 * [Ruby Weekly](http://rubyweekly.com)
+* [Ruby Bibliography](http://rubybib.org/)
 
 ## Blogs
 
