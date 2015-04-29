@@ -54,6 +54,7 @@ to the world of Ruby API in C
 * [GoRails Screencasts for Ruby on Rails Developers](https://gorails.com/)
 * [RubyTapas by Avdi Grimm](http://www.rubytapas.com)
 * [Confreaks](http://confreaks.com)
+* [Rails Screencasts by Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ)
 
 ## Podcasts
 
