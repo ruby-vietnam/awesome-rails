@@ -47,6 +47,7 @@ to the world of Ruby API in C
 * [Meet Rails 3 by Peepcode](https://peepcode.com/products/meet-rails-3-i)
 * [RubyStep](http://patmaddox.com/rubysteps/)
 * [Ruby Security Reviewer Guide](https://code.google.com/p/ruby-security/wiki/Guide)
+* [74 ruby on rails resources tutorials](http://www.softwaredeveloper.com/features/74-ruby-on-rails-resources-tutorials-050207/)
 
 ## Screencasts
 
